@@ -10,6 +10,8 @@
 
 # SDK Não Oficial para integração a partir de aplicações PHP com as APIs da Cnova Marketplace (Extra.com.br, Pontofrio.com.br, Casasbahia.com.br)
 
+[![Join the chat at https://gitter.im/gpupo/cnova-sdk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gpupo/cnova-sdk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 [Documentação Oficial da API V2](https://desenvolvedores.cnova.com/api-portal/docs/apilojista/main/getting-started.html)
 
